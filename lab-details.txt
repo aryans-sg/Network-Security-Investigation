@@ -1,0 +1,17 @@
+Network Security Investigation
+
+Target:
+My own Windows PC
+
+Purpose:
+Authorized security investigation of a controlled system.
+
+Tools:
+Nmap
+Wireshark
+
+Date:
+30-09-2026
+
+Target IPv4:
+192.168.0.102
